@@ -1,0 +1,12 @@
+.container{
+    width: 15%;
+    margin: auto;
+    text-align: center;
+}
+select{
+    width: 200px;
+}
+button{
+    margin-top: 15px;
+    padding: 5px 20px;
+}
